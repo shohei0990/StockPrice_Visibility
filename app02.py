@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import mplfinance as mpf
 import plotly.express as px
 
-
 st.title('国内自動車企業の株価可視化アプリ')
 
 # サイドバーの設定：日数と株価の指定範囲
